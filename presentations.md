@@ -96,7 +96,7 @@ protocols and how are they related to Haskell's type classes? What are
 optional types and how are they related to 'null' values in other
 object oriented languages?
 
-Team: ???
+Team: Swiftyboys(Roald Neutenboom, Bart van der Lugt, Lars van den Haak, Anvar Arashov, Lukas Arts)
 
 #### Scala
 
